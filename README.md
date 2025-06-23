@@ -11,8 +11,8 @@ Tech Stack:
 Language: Python
 Libraries: OpenCV, TensorFlow/Keras, NumPy
 Voice Output: pyttsx3 or gTTS
-Model: CNN / Transfer Learning (MobileNet, ResNet, etc.)
-Deployment: [Streamlit/Flask] (if applicable)
+Model: CNN (MobileNet, ResNet, etc.)
+Deployment: Streamlit
 
 
 Dataset:
