@@ -4,7 +4,7 @@ Features:
 -Detects Indian currency notes (₹10, ₹20, ₹50, ₹100, ₹200, ₹500, ₹2000).
 -Real-time detection using webcam or screen images.
 -Voice assistance using text-to-speech (TTS).
--Simple and accessible UI (optional: mention Streamlit/Flask if used).
+-Simple and accessible UI Streamlit.
 -Designed with accessibility and inclusion in mind.
 
 Tech Stack:
